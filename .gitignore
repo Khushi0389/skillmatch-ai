@@ -1,0 +1,17 @@
+# Ignore Python environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db

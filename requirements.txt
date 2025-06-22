@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-docx
+PyMuPDF
+spacy
+sentence-transformers
+streamlit
+transformers
