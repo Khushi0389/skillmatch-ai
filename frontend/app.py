@@ -86,7 +86,7 @@ def create_pdf(skills, score, username):
 if file and jd:
     with st.spinner("🔍 Analyzing your resume..."):
         response = requests.post(
-            "https://skillmatch-ai-wep0.onrender.com",
+            "https://skillmatch-ai-mllr.onrender.com",
             data={"jd": jd},
             files={"file": (file.name, file, file.type)}
         )
