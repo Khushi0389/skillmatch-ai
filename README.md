@@ -68,7 +68,9 @@ skillmatch-ai/
 bash: 
 
 git clone https://github.com/Khushi0389/skillmatch-ai.git
+
 cd skillmatch-ai
+
 🖥️ 2. Backend Setup
 bash:
 
