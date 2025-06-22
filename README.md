@@ -27,9 +27,9 @@ SkillMatch.AI is an intelligent NLP-powered resume analyzer built using **FastAP
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** `Streamlit`, `FPDF`, `Matplotlib`, `SQLite`
-- **Backend:** `FastAPI`, `SpaCy`, `Uvicorn`
-- **NLP Libraries:** `spaCy`, `re`, `sklearn`
+- **Frontend:** `Streamlit`, `FPDF`, `Matplotlib`, `SQLite`  
+- **Backend:** `FastAPI`, `SpaCy`, `Uvicorn`  
+- **NLP Libraries:** `spaCy`, `re`, `sklearn`, `HuggingFace Transformers`, `sentence-transformers`  
 - **Deployment:** `Render`, `GitHub`
 
 ---
