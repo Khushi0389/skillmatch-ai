@@ -6,3 +6,5 @@ spacy
 sentence-transformers
 streamlit
 transformers
+sqlalchemy
+
