@@ -18,13 +18,6 @@ SkillMatch.AI is an intelligent NLP-powered resume analyzer built using **FastAP
 
 ---
 
-## 🚀 Live Demo
-
-> 🌐 Frontend: [https://your-frontend-url.onrender.com](https://skillmatch-ai-1.onrender.com)  
-> 🔗 Backend: [https://your-backend-url.onrender.com](https://skillmatch-ai-mllr.onrender.com)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** `Streamlit`, `FPDF`, `Matplotlib`, `SQLite`  
@@ -35,14 +28,14 @@ SkillMatch.AI is an intelligent NLP-powered resume analyzer built using **FastAP
 ---
 ## 📸 Demo Screenshots
 
-### 🔐 Login Page  
-![Login](login1.png)
+### 🔐 Registration Page  
+![Login](register.png)
 
 ### 📝 Resume Analysis  
-![Analysis](analyze.png)
+![Analysis](demo1.png)
 
 ### 📥 PDF Report Download  
-![Download](pdf.png)
+![Download](demo2.png)
 
 
 ## 📂 Project Structure
