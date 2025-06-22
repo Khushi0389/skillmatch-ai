@@ -75,13 +75,19 @@ cd skillmatch-ai
 bash:
 
 pip install -r requirements.txt
+
 uvicorn app.main:app --reload
+
 💻 3. Frontend Setup
 bash:
 
 cd frontend
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
+
 🔒 Authentication
 Secure registration & login system
 
