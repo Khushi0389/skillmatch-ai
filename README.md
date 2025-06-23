@@ -42,19 +42,24 @@ SkillMatch.AI is an intelligent NLP-powered resume analyzer built using **FastAP
 
 skillmatch-ai/
 │
+
 ├── app/ # FastAPI backend logic
+
 │ ├── main.py
 │ ├── resume_parser.py
 │ ├── extractor.py
 │ └── matcher.py
 │
+
 ├── frontend/ # Streamlit frontend UI
+
 │ ├── app.py
 │ ├── auth.py
 │ ├── auth_db.py
 │ ├── requirements.txt
 │ └── users.db (SQLite user data)
 │
+
 ├── requirements.txt # Backend dependencies
 ├── start.sh # FastAPI start script
 ├── README.md
